@@ -27,7 +27,7 @@ app.use(cookieParser());  // aapn authentication kiva authorization sathi json w
 app.use(express.urlencoded({extended:true}));  // use to parse url encodedBodies
 app.use(
 	cors({
-		origin:"http://localhost:3000",   // we will see at frontend time
+		origin:"https://main.d1743lphf25ys1.amplifyapp.com",   // we will see at frontend time
 		credentials:true,
 		methods: ["GET", "POST", "PUT", "DELETE", "PATCH"], // Explicitly allow common methods
         allowedHeaders: ["Content-Type", "Authorization"], // Explicitly allow common headers
