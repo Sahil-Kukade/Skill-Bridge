@@ -1,10 +1,7 @@
 
-# StudyNotion - EdTech Platform
-:rocket: [Link to website][https://studynotion-frontend.vercel.app/]
+# Skill-Bridge - EdTech Platform
 
-
-![Main Page](images/mainpage.png)
-StudyNotion is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
+Skill-Bridge is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 ## Table of Contents
 
@@ -22,13 +19,13 @@ StudyNotion is a fully functional EdTech platform that enables users to create, 
 
 ## Introduction
 
-StudyNotion aims to provide a seamless and interactive learning experience for students, making education more accessible and engaging. Additionally, the platform serves as a platform for instructors to showcase their expertise and connect with learners across the globe.
+Skill-Bridge aims to provide a seamless and interactive learning experience for students, making education more accessible and engaging. Additionally, the platform serves as a platform for instructors to showcase their expertise and connect with learners across the globe.
 
 In the following sections, we will cover the technical details of the platform, including the system architecture, API design, installation, usage instructions, and potential future enhancements.
 
 ## System Architecture
 
-The StudyNotion EdTech platform consists of three main components: the front-end, the back-end, and the database. The platform follows a client-server architecture, with the front-end serving as the client and the back-end and database serving as the server.
+The Skill-Bridge EdTech platform consists of three main components: the front-end, the back-end, and the database. The platform follows a client-server architecture, with the front-end serving as the client and the back-end and database serving as the server.
 
 ### Front-end
 
@@ -71,7 +68,7 @@ The back-end of the platform is built using NodeJS and ExpressJS, providing APIs
 
 #### Back-end Frameworks, Libraries, and Tools
 
-The back-end of StudyNotion uses various frameworks, libraries, and tools to ensure its functionality and performance, including:
+The back-end of Skill-Bridge uses various frameworks, libraries, and tools to ensure its functionality and performance, including:
 
 - **Node.js:** Used as the primary framework for the back-end.
 - **Express.js:** Used as a web application framework, providing a range of features and tools for building web applications.
@@ -82,7 +79,7 @@ The back-end of StudyNotion uses various frameworks, libraries, and tools to ens
 
 #### Data Models and Database Schema
 
-The back-end of StudyNotion uses several data models and database schemas to manage data, including:
+The back-end of Skill-Bridge uses several data models and database schemas to manage data, including:
 
 - **Student Schema:** Includes fields such as name, email, password, and course details for each student.
 - **Instructor Schema:** Includes fields such as name, email, password, and course details for each instructor.
@@ -96,20 +93,20 @@ The database for the platform is built using MongoDB, a NoSQL database that prov
 
 ### Architecture Diagram
 
-Below is a high-level diagram that illustrates the architecture of the StudyNotion EdTech platform:
+Below is a high-level diagram that illustrates the architecture of the Skill-Bridge EdTech platform:
 
 ![Architecture](images/architecture.png)
 
 ## API Design
 
-The StudyNotion platform's API is designed following the REST architectural style. The API is implemented using Node.js and Express.js. It uses JSON for data exchange and follows standard HTTP request methods such as GET, POST, PUT, and DELETE.
+The Skill-Bridge platform's API is designed following the REST architectural style. The API is implemented using Node.js and Express.js. It uses JSON for data exchange and follows standard HTTP request methods such as GET, POST, PUT, and DELETE.
 
 For detailed API documentation and endpoints, refer to the [API Documentation](/api-docs).
 
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/username/repo.git`
-2. Navigate to the project directory: `cd StudyNotion`
+2. Navigate to the project directory: `cd Skill-Bridge`
 3. Install dependencies: `npm install`
 
 ## Configuration
